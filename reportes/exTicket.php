@@ -31,7 +31,7 @@ $rspta = $venta->ventacabecera($_GET["id"]);
 $reg = $rspta->fetch_object();
 
 //Establecemos los datos de la empresa
-$empresa = "Decoshades Perú E.I.R.L.";
+$empresa = "TuWebin Perú E.I.R.L.";
 $documento = "RUC: 20552462204";
 $direccion = "Av. Manuel Villaran 965 Surquillo";
 $telefono = "(01)2710109";

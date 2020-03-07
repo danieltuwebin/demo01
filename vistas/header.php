@@ -16,7 +16,8 @@ if (strlen(session_id()) < 1)
   <!-- Font Awesome -->
   <link rel="stylesheet" href="../public/css/font-awesome.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="../public/css/AdminLTE.min.css">
+  <link rel="stylesheet" href="../public/css/AdminLTE.css">
+  <!-- <link rel="stylesheet" href="../public/css/AdminLTE.min.css"> -->
   <!-- AdminLTE Skins. Choose a skin from the css/skins
          folder instead of downloading all of them to reduce the load. -->
   <link rel="stylesheet" href="../public/css/_all-skins.min.css">
@@ -35,18 +36,18 @@ if (strlen(session_id()) < 1)
 <body class="hold-transition skin-blue-light sidebar-mini">
   <div class="wrapper">
 
-    <header class="main-header bg-orange">
+    <header class="main-header bg-green">
 
       <!-- Logo -->
-      <a href="index2" class="logo bg-orange">
+      <a href="index2" class="logo bg-green">
         <!-- mini logo for sidebar mini 50x50 pixels -->
-        <span class="logo-mini bg-orange"><b>DECO</b>Ventas</span>
+        <span class="logo-mini bg-green"><b> T.W. </b>Ventas</span>
         <!-- logo for regular state and mobile devices -->
         <span class="logo-lg"><b>TuWebin Perú</b></span>
       </a>
 
       <!-- Header Navbar: style can be found in header.less -->
-      <nav class="navbar navbar-static-top bg-orange" role="navigation">
+      <nav class="navbar navbar-static-top bg-green" role="navigation">
         <!-- Sidebar toggle button-->
         <a href="#" class="sidebar-toggle bg-yellow" data-toggle="offcanvas" role="button">
           <span class="sr-only">Navegación</span>
@@ -64,11 +65,11 @@ if (strlen(session_id()) < 1)
               </a>
               <ul class="dropdown-menu ">
                 <!-- User image -->
-                <li class="user-header bg-orange">
+                <li class="user-header bg-green">
                   <img src="../files/usuarios/<?php echo $_SESSION['imagen']; ?>" class="img-circle" alt="User Image">
                   <p>
                     TuWebin Perú E.I.R.L.
-                    <small> Protección Solar Inteligente </small>
+                    <small> Ssistema Inteligente </small>
                   </p>
                 </li>
 

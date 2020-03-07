@@ -18,7 +18,7 @@ require('Ingreso.php');
 //Establecemos los datos de la empresa
 $logo = "logo.jpg";
 $ext_logo = "jpg";
-$empresa = "Decoshades Perú E.I.R.L.";
+$empresa = "TuWebin Perú E.I.R.L.";
 $documento = "RUC: 20552462204";
 $direccion = "Av. Manuel Villaran 965 Surquillo";
 $telefono = "(01)2710109";
