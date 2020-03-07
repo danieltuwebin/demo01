@@ -19,11 +19,11 @@ require('Factura.php');
 $logo = "logo.jpg";
 $ext_logo = "jpg";
 $empresa = "TuWebin Perú E.I.R.L.";
-$documento = "RUC: 20552462204";
-$direccion = "Av. Manuel Villaran 965 Surquillo Lima";
-$telefono = "(01)2710109 / Cel: 981254608";
-$email = "informes@decoshadesperu.com";
-$web ="www.decoshadesperu.com";
+$documento = "RUC: 10101010109";
+$direccion = "Av. Su Direccion";
+$telefono = "(01)5555555 / Cel: 956055656";
+$email = "informes@tuwebin.com";
+$web ="www.tuwebin.com";
 
 //Obtenemos los datos de la cabecera de la venta actual
 require_once "../modelos/Venta.php";
