@@ -8,7 +8,7 @@ if (strlen(session_id()) < 1)
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Decoshades Perú E.I.R.L.</title>
+  <title>TuWebin Perú E.I.R.L.</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.5 -->
@@ -42,7 +42,7 @@ if (strlen(session_id()) < 1)
         <!-- mini logo for sidebar mini 50x50 pixels -->
         <span class="logo-mini bg-orange"><b>DECO</b>Ventas</span>
         <!-- logo for regular state and mobile devices -->
-        <span class="logo-lg"><b>Decoshades Perú</b></span>
+        <span class="logo-lg"><b>TuWebin Perú</b></span>
       </a>
 
       <!-- Header Navbar: style can be found in header.less -->
@@ -67,7 +67,7 @@ if (strlen(session_id()) < 1)
                 <li class="user-header bg-orange">
                   <img src="../files/usuarios/<?php echo $_SESSION['imagen']; ?>" class="img-circle" alt="User Image">
                   <p>
-                    Decoshades Perú E.I.R.L.
+                    TuWebin Perú E.I.R.L.
                     <small> Protección Solar Inteligente </small>
                   </p>
                 </li>

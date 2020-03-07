@@ -2,7 +2,7 @@
         <div class="pull-right hidden-xs">
           <b>Version</b> 1.1.0
         </div>
-        <strong>Copyright &copy; 2017-2019 <a  href="../vistas/info.php">Pumasoft Peru </a>.</strong> Todos Los Derechos Reservados.
+        <strong>Copyright &copy; 2017-2020 <a  href="../vistas/info.php">TuWebin Peru </a>.</strong> Todos Los Derechos Reservados.
     </footer>    
     <!-- jQuery -->
     <script src="../public/js/jquery-3.1.1.min.js"></script>

@@ -24,8 +24,8 @@ if($_SESSION['almacen']==1)
                       <h1 class="box-title" style="font-size:40px;"> Para Mayor Informacion Comunicate o Escribenos </h1>
                     <div class="box-header with-border">
                             
-                            <h1>Celular: </h1><p style="font-size:20px;">987087371</p>
-                            <h1>Correo: </h1> <p style="font-size:20px;">pumasoftperu@gmail.com </p>
+                            <h1>Celular: </h1><p style="font-size:20px;">956055656</p>
+                            <h1>Correo: </h1> <p style="font-size:20px;">informes@tuwebin.com </p>
                         <div class="box-tools pull-right">
                         </div>
                     </div> 
