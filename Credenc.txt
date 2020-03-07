@@ -1,0 +1,5 @@
+Panel de Control: http://cpanel.decoshadesperu.com
+Usuario: decoshad
+Contraseña: A5m42bJai8
+
+http://decoshadesperu.com/sistema_test/vistas/login.html
